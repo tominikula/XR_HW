@@ -15,6 +15,8 @@ EditorBuildSettings:
     path: Assets/Scenes/HW2Scene.unity
     guid: 441503a493b47b0448c3e7b892ed9c82
   m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 51243c89f35613c49b6d84b10c75b28f,
+      type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c8c81d140740b894184a0ac99b15f2dd,
       type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: bab7afc1577c2be4793ec680d4552fe9,
