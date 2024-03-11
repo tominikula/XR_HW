@@ -10,7 +10,7 @@ public class Hand : MonoBehaviour
     Animator animator;
     public float speed;
     private string animatorGripParam = "Grip";
-     private string animatorTriggerParam = "Trigger";
+    private string animatorTriggerParam = "Trigger";
     private float gripTarget;
     private float triggerTarget;
     private float gripCurrent;
@@ -28,7 +28,7 @@ public class Hand : MonoBehaviour
         AnimateHand();
     }
 
-        internal void SetGrip(float v)
+    internal void SetGrip(float v)
     {
         gripTarget = v;
     }
