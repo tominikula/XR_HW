@@ -11,9 +11,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/MyScenes.unity
     guid: 62c3e490ae7ac32468052620d7ca6366
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/HW2Scene.unity
     guid: 441503a493b47b0448c3e7b892ed9c82
+  - enabled: 1
+    path: Assets/Escape Room Scene.unity
+    guid: 1b76cfda68fc0624bba571e3d2016dcf
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 51243c89f35613c49b6d84b10c75b28f,
       type: 2}
