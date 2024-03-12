@@ -66,4 +66,8 @@ public class PhysicsButton : MonoBehaviour
     {
         puzzleStatus = status;
     }
+    internal bool GetPuzzleStatus()
+    {
+        return puzzleStatus;
+    }
 }
